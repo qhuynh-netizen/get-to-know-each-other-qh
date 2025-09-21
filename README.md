@@ -5,16 +5,79 @@ Credit ChatGPT
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Eric Pogue's Introduction Website</title>
+  <title>Your Name's Introduction Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #004080;
+    }
+    .center-image {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 100%;
+      height: auto;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
 <body>
-  <!-- Heading with preferred + last name -->
-  <h1>Ngoc Quy Huynh's Introduction Website</h1>
-
-  <!-- Lewis email address as an email link -->
-  <p>Email: <a href="mailto:epogue@lewisu.edu">quynhuynh@lewisu.edu</a></p>
-
-  <!-- Discord information -->
+  <!-- Requirement 1 -->
+  <h1>Your Preferred Lastname's Introduction Website</h1>
+  <p>Email: <a href="mailto:yourname@lewisu.edu">quynhuynh@lewisu.edu</a></p>
   <p>Discord: quyhuynh2_00941</p>
+
+  <!-- Requirement 2 -->
+  <img src="me-800-by-800.jpg" 
+       alt="Representative head and shoulder photo of me" 
+       class="center-image">
+
+  <p>Thumbnail version:</p>
+  <img src="me-300-by-300.jpg" 
+       alt="Thumbnail head and shoulder photo of me">
+
+  <!-- Requirement 3 -->
+  <h2>Introduction</h2>
+  <p>
+    Hello! My name is [Your Name]. I am a [year in school, e.g., sophomore] 
+    majoring in [Your Major] and minoring in [Your Minor]. I come from [your hometown], 
+    and I enjoy spending time with my family and friends.
+  </p>
+
+  <h2>What I Hope to Learn in this Course</h2>
+  <ul>
+    <li>How to build and design professional websites</li>
+    <li>How to use GitHub Pages effectively</li>
+    <li>How HTML, CSS, and JavaScript work together</li>
+  </ul>
+
+  <h2>My Favorite Hobby / Activity</h2>
+  <ul>
+    <li>Playing basketball</li>
+    <li>Reading technology blogs</li>
+  </ul>
+  <p>
+    Learn more about basketball on the 
+    <a href="https://www.nba.com" target="_blank">NBA website</a>.
+  </p>
+
+  <h2>Fun Fact</h2>
+  <p>
+    I once [insert a unique fun fact about yourself, like “built my own gaming computer” or “ran a marathon in high school”].
+  </p>
 </body>
 </html>
+
+
+  
